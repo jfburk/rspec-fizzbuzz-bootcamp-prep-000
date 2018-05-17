@@ -14,3 +14,4 @@ end
 fizzbuzz(6)
 fizzbuzz(20)
 fizzbuzz(60)
+fizzbuzz(2)
